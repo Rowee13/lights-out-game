@@ -1,0 +1,11 @@
+.LightBox {
+	height: 100px;
+	width: 100px;
+	border-radius: 1px;
+	background-color: #263238;
+	transition: background-color 0.7s ease;
+}
+
+.LightBox-lit {
+	background-color: #00bcd4;
+}
